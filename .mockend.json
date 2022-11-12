@@ -28,6 +28,6 @@
     "content": {
     "loremParagraphs": { "minLength": 200, "maxLength": 500 }
   },
-      "studentId": { "int": { "min": 0, "max": 3 } },
+      "studentId": { "int": { "min": 0, "max": 3 } }
   }
 }
